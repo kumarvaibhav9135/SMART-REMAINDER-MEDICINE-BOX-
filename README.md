@@ -120,7 +120,7 @@ Smart-Medicine-Reminder-Box/
 
 ## 👨‍💻 Author
 
-**Suman Kumar**
+**Kumar Vaibhav**
 
 Electronics & Communication Engineering (ECE)
 
